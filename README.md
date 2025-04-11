@@ -1,4 +1,4 @@
-Adem Website Analyzer - أداة تحليل المواقع
+Scanmy Website Analyzer - أداة تحليل المواقع
 Python
 License
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 bash
 Copy
-python adem_website_checker.py
+python Scanmy.py
 إدخال رابط الموقع واختيار نوع الفحص المطلوب.
 
 لقطة شاشة
