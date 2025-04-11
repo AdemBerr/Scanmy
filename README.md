@@ -19,12 +19,7 @@ Python 3.8+
 Copy
 pip install requests beautifulsoup4
 كيفية الاستخدام
-تنزيل الأداة:
 
-bash
-Copy
-git clone https://github.com/your-repo/adem-website-analyzer.git
-cd adem-website-analyzer
 تثبيت المتطلبات:
 
 bash
